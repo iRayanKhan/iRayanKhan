@@ -1,1 +1,1 @@
-[![iRayanKhan's github stats](https://github-readme-stats.vercel.app/api?username=iRayanKhan&show_icons=true&theme=dark&title_color=FF0000&icon_color=fff&count_private=true&hide_rank=true)](https://github.com/anuraghazra/github-readme-stats)
+[![iRayanKhan's github stats](https://github-readme-stats.vercel.app/api?username=iRayanKhan&show_icons=true&theme=dark&title_color=FF0000&icon_color=fff&count_private=true&hide_rank=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
